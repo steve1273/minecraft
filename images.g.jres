@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAB3d+7u7u7u7nd35+7r7u7ud3fu7u7u7ut3d3fu7uvu7nd37u7u7u7ud3fn7u7u7u53d+7u7u7r7nd35+7u7u7ud3d37uvu7u53d+7u7u7u7nd37u7u7u7rd3d37u7u7u53d+6+7u7u7nd35+7u7u7ud3fu7u7u6+53d+fu7u7u7g==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage0"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAA8P///wAAAACfmZn5AAAA8Jlpmf8AAACfZpb5DwAA8JmWlv8AAADwmWaWDwAAAPBpmZkPAAAA8Jn5//4AAADwmf8A7w8AAPD5DwDw/gAA8P8AAADvDwAAAAAAAPD+AAAAAAAAAO8PAAAAAAAA8P4AAAAAAAAA/w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "random pickaxe"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
